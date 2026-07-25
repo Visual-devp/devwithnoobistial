@@ -15,7 +15,7 @@
 - 🔬 Undergraduate Research Assistant — worked on **Deep Reinforcement Learning** for autonomous navigation
 - 🛠️ Skilled in **PyTorch, TensorFlow, scikit-learn**, and end-to-end ML pipelines
 - 🌱 Currently exploring **NLP, Computer Vision, and MLOps**
-- 📫 Reach me at **dev.noobistial@gmail.com**
+- 📫 Reach me at **saumyakumarrai.dev@gmail.com**
 
 ---
 
